@@ -120,7 +120,6 @@ xp: 100
 skills: 1
 ```
 
-Nuno Was Here!
 If you submit the code to the right, you'll see that you get two types of errors.
 
 
